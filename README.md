@@ -4,7 +4,7 @@ Neste desafio, eu coloco em pratica os meu conheicmentos sobre promises (Operaç
 
 Ao consumir os dados da API, é feito o tratamento com o metodo json(), e atraves de uma função que escuta o input de CEP é apresentado os dados do cep digitado de forma automatica após sair da input CEP.
 
-###Link do projeto no codepen: <https://codepen.io/al3xflores/pen/KKmGwge>.
+### Link do projeto no codepen: <https://codepen.io/al3xflores/pen/Bamdevd>.
 
 ## Recursos utilizados
 
